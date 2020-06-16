@@ -7,3 +7,6 @@ class Calculator:
 
     def modulus(self, num1, num2):
         return num1 % num2
+
+    def product(self, num1, num2);
+        return num1*num2
